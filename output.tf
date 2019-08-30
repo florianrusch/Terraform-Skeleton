@@ -1,3 +1,3 @@
 // output "foobar" {
-//     value = var.foobar
+//   value = var.foobar
 // }
